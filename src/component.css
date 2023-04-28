@@ -1,0 +1,55 @@
+.outerbox{
+    /* landing page */
+    margin: 1%;
+    /* border-style: solid; */
+    min-height:500px;
+    /* border-radius: 10px; */
+}
+
+.App{
+    border-style: solid;
+    border-radius: 10px;
+    margin:5px;
+}
+
+.image-aside{
+    display:flex;
+    flex-direction:row;
+    gap:50px;
+}
+
+.image1{
+    /* image page */
+    margin: 2% 2% 0% 2%;
+    width: 50%;
+    height: 20rem;
+}
+
+/* aside */
+.aside-content{
+    
+    margin-top: 50px;
+    
+}
+
+.aside-butt{ 
+  color: blue;
+}
+
+#combined{
+    display:flex;
+    flex-direction: column;
+    margin: 0px 15px 15px 15px ;
+}
+/* article */
+.MoreDetails{
+    color:red;
+    text-align: left;
+    margin-top: 0px;
+}
+
+/* review */
+.Review{
+    
+    text-align: left;
+}
